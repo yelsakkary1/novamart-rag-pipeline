@@ -1,0 +1,28 @@
+# Environment variables and secrets — NEVER commit these
+.env
+.env.local
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.venv/
+venv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# ChromaDB / vector store data (often large + may contain embedded business data)
+data/chromadb/
+*.sqlite3
+*.bin
+*.pickle
+
+# macOS
+.DS_Store
+
+# IDE
+.vscode/
+.idea/

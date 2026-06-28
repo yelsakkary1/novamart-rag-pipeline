@@ -1,0 +1,26 @@
+store_id,store_name,city,state,region,square_footage,opened_date,store_manager
+S001,NovaMart Los Angeles,Los Angeles,CA,West,14000,2017-01-01,James Ortega
+S002,NovaMart San Francisco,San Francisco,CA,West,11000,2017-04-02,Priya Nair
+S003,NovaMart Seattle,Seattle,WA,West,12500,2017-07-02,Marcus Webb
+S004,NovaMart Portland,Portland,OR,West,10500,2017-10-01,Linda Chen
+S005,NovaMart San Diego,San Diego,CA,West,13000,2018-01-01,Derek Simmons
+S006,NovaMart Phoenix,Phoenix,AZ,Southwest,13500,2018-04-02,Aisha Patel
+S007,NovaMart Las Vegas,Las Vegas,NV,Southwest,12000,2018-07-02,Connor Walsh
+S008,NovaMart Denver,Denver,CO,Southwest,11500,2018-10-01,Fatima Hassan
+S009,NovaMart Albuquerque,Albuquerque,NM,Southwest,9500,2019-01-01,Ryan Kowalski
+S010,NovaMart Tucson,Tucson,AZ,Southwest,9000,2019-04-02,Elena Rossi
+S011,NovaMart Chicago,Chicago,IL,Midwest,13000,2019-07-02,Trevor Banks
+S012,NovaMart Minneapolis,Minneapolis,MN,Midwest,11000,2019-10-01,Nadia Osei
+S013,NovaMart Detroit,Detroit,MI,Midwest,10000,2020-01-01,Justin Marsh
+S014,NovaMart Columbus,Columbus,OH,Midwest,9500,2020-04-01,Carmen Vega
+S015,NovaMart Kansas City,Kansas City,MO,Midwest,9000,2020-07-01,Patrick Liu
+S016,NovaMart New York,New York,NY,Northeast,15000,2020-09-30,Jasmine Ford
+S017,NovaMart Boston,Boston,MA,Northeast,11500,2020-12-31,Samuel Tran
+S018,NovaMart Philadelphia,Philadelphia,PA,Northeast,10500,2021-04-01,Nicole Russo
+S019,NovaMart Washington DC,Washington DC,DC,Northeast,12000,2021-07-01,Andre Mitchell
+S020,NovaMart Baltimore,Baltimore,MD,Northeast,9500,2021-09-30,Sonia Park
+S021,NovaMart Atlanta,Atlanta,GA,Southeast,12500,2021-12-31,Blake Turner
+S022,NovaMart Miami,Miami,FL,Southeast,13000,2022-04-01,Yara Khalil
+S023,NovaMart Charlotte,Charlotte,NC,Southeast,10000,2022-07-01,Ethan Brooks
+S024,NovaMart Nashville,Nashville,TN,Southeast,10500,2022-09-30,Monique Davis
+S025,NovaMart Orlando,Orlando,FL,Southeast,11500,2022-12-31,Chris Huang
